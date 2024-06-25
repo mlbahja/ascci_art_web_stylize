@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(37, 243, 123);
+}
+body {
+    margin:50px 0px; padding:0px;
+    text-align:center;
+    align:center;
+}
+label,textInput{
+    color: rgb(56, 150, 12);
+
+}
+a {
+    background-color: #0b23ad;
+    border: none;
+    color: rgb(230, 157, 157);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
