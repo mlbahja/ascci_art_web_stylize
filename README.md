@@ -11,7 +11,7 @@ To run the application, you need to have golang installed on your machine. You c
 After installing golang, you can run the following commands to run the application:
 
 ```bash
-go run .
+go run . 
 ```
 
 This will start the server on port 8080. You can access the application by visiting [http://localhost:8080](http://localhost:8080) in your browser.
