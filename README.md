@@ -24,9 +24,8 @@ The html file contains a form that takes in the text input and the banner radio 
 
 The ascii art is generated using the [asciiArtGen](./utils/asciiArtGen.go) function. This function takes in a string and a banner and returns the a string containing the ascii art.
 
-![Alt text](path/to/your//home/mlbahja/Pictures/Screenshots/Screenshot from 2024-08-09 09-46-02.png)
-
-![Alt text](path/to/your//home/mlbahja/Pictures/Screenshots/Screenshot from 2024-08-09 09-46-47.png)
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
 
 
 ## Authors
